@@ -1,0 +1,12 @@
+commands for cloning n updation git hub repository
+1.Create folder in local machine
+2.cd file location
+3.git clone the url which u want to clone
+4.copy the files into it
+5.move to the path
+6.git add .
+7.git status (check status)
+8.git config --global user.name" "
+9.git config --global user.mail 
+10.git commit -m"message"
+11.git push -u origin main
